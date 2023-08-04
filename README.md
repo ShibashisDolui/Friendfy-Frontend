@@ -1,5 +1,4 @@
-# For the backend code checkout here : https://github.com/ShibashisDolui/Frendify-Backend
-
+### For the backend code checkout here : https://github.com/ShibashisDolui/Frendify-Backend
 
 # React + Vite
 
